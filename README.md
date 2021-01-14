@@ -4,8 +4,8 @@ This is the replication package for our work accepted in International Journal o
 # AAN.net
 AAN.net is the AAN we built from our data set.
 
-# topis_*.rtf and similarity_topois_*
-topis_*.rtf is the cluster solution of DT-GACA; * denotes the value of K. similarity_topois_* is the results of our CMFA; * denotes the value of K.
+# topis_XX.rtf and similarity_topois_XX.rtf
+topis_XX.rtf is the cluster solution of DT-GACA; XX denotes the value of K. similarity_topois_XX.rtf is the results of our CMFA; XX denotes the value of K.
 
 # structural_similarity.rtf
 structural_similarity.rtf is the results of SCGA.
